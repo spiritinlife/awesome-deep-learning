@@ -1,4 +1,4 @@
-##Fork to mark my progress and idead in deep learning
+##Fork to mark my progress and ideas in deep learning
 
 ### Free Online Books
 
